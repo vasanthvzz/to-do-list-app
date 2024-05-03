@@ -1,0 +1,27 @@
+.list-items{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', 
+    sans-serif;
+    font-weight: 700;
+    color: black;
+    text-align: center;
+    font-size: 3rem; 
+    background-color: white;
+    padding: 10px;
+    border-style:solid;
+    border-radius: 10px;
+    padding: 1rem;
+}
+li{
+    list-style: none;
+    margin: 5px;
+}
+
+.input-box{
+    text-align: center;
+}
+.list-items button{
+    border-radius: 50%;
+    background-color: aqua;
+    padding: 1rem;
+    margin: 10px;
+}
